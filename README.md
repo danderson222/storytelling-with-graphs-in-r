@@ -1,9 +1,7 @@
----
-title: Storytelling With Your Graphs In R Using ggplot2
-author: Dylan Anderson
-date: '2021-02-10'
-description: "Use text, vertical lines and relevant titles to tell a story of Presidential Approval Ratings in R!"
----
+# Storytelling With Your Graphs In R Using ggplot2
+### "Use text, vertical lines and relevant titles to tell a story of Presidential Approval Ratings in R!"
+#### By Dylan Anderson
+#### Date Posted - 2021-02-10
 
 A few weeks ago, I tuned into an [RStudio talk by John Burn-Murdoch](https://blog.rstudio.com/2020/10/16/rstudio-global-2021/) about reporting and visualizing the COVID pandemic. As a data journalist at the Financial Times, he has been extremely influential over the past year creating well-known charts and graphics about the spread of COVID and it's toll on the world. **And it is all because his graphics tell a story**.
 
